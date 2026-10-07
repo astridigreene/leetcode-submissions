@@ -37,6 +37,7 @@ public class UndergroundSystem {
             stats.count = 1;
             times.Add(journey, stats);
         }
+        people.Remove(id);
     }
     
     public double GetAverageTime(string startStation, string endStation) {
