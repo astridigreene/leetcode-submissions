@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/astridigreene/leetcode-submissions/tree/master/0169-majority-element) |
+| [1600-throne-inheritance](https://github.com/astridigreene/leetcode-submissions/tree/master/1600-throne-inheritance) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -27,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/astridigreene/leetcode-submissions/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/astridigreene/leetcode-submissions/tree/master/1600-throne-inheritance) |
+## Depth-First Search
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/astridigreene/leetcode-submissions/tree/master/1600-throne-inheritance) |
+## Design
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/astridigreene/leetcode-submissions/tree/master/1600-throne-inheritance) |
 <!---LeetCode Topics End-->
