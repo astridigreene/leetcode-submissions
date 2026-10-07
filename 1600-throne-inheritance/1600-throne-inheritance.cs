@@ -28,7 +28,7 @@ public class ThroneInheritance {
         kingdom[name].alive = false;
     }
     
-    public void DFS(string person, List<string> cur0rder) {
+    public void DFS(string person, IList<string> cur0rder) {
         Console.WriteLine(person);
         if (kingdom[person].alive) {
             cur0rder.Add(person);
@@ -38,7 +38,7 @@ public class ThroneInheritance {
         }
     }
     public IList<string> GetInheritanceOrder() {
-        List<string> cur0rder = new List<string>();
+        IList<string> cur0rder = new List<string>();
         DFS(king_name, cur0rder);
         return cur0rder;
     }
