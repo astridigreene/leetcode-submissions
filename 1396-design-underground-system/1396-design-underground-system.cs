@@ -1,6 +1,5 @@
 public class UndergroundSystem {
     public class Person {
-        public bool checked_in;
         public int start_time;
         public string start_station;
     }
@@ -16,16 +15,11 @@ public class UndergroundSystem {
     
     public void CheckIn(int id, string stationName, int t) {
         if (people.ContainsKey(id)) {
-            if (people[id].checked_in) {
-                return;
-            }
-            people[id].checked_in = true;
             people[id].start_time = t;
             people[id].start_station = stationName;
             return;
         }
         Person person = new Person();
-        person.checked_in = true;
         person.start_time = t;
         person.start_station = stationName;
         people.Add(id, person);
@@ -43,7 +37,6 @@ public class UndergroundSystem {
             stats.count = 1;
             times.Add(journey, stats);
         }
-        people[id].checked_in = false;
     }
     
     public double GetAverageTime(string startStation, string endStation) {
