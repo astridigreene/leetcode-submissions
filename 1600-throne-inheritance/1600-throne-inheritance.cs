@@ -29,7 +29,6 @@ public class ThroneInheritance {
     }
     
     public void DFS(string person, IList<string> cur0rder) {
-        Console.WriteLine(person);
         if (kingdom[person].alive) {
             cur0rder.Add(person);
         }
