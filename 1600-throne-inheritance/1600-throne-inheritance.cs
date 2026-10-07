@@ -1,6 +1,5 @@
 public class ThroneInheritance {
     public class Person {
-        public string name;
         public bool alive;
         public List<string> successors;
     }
@@ -8,7 +7,6 @@ public class ThroneInheritance {
     public string king_name;
     public ThroneInheritance(string kingName) {
         Person king = new Person();
-        king.name = kingName;
         king.successors = new List<string>();
         king.alive = true;
         kingdom.Add(kingName, king);
@@ -17,7 +15,6 @@ public class ThroneInheritance {
     
     public void Birth(string parentName, string childName) {
         Person child = new Person();
-        child.name = childName;
         child.alive = true;
         child.successors = new List<string>();
         kingdom[parentName].successors.Add(childName);
