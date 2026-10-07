@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/astridigreene/leetcode-submissions/tree/master/0169-majority-element) |
+| [0588-design-in-memory-file-system](https://github.com/astridigreene/leetcode-submissions/tree/master/0588-design-in-memory-file-system) |
 | [1600-throne-inheritance](https://github.com/astridigreene/leetcode-submissions/tree/master/1600-throne-inheritance) |
 ## Divide and Conquer
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/astridigreene/leetcode-submissions/tree/master/0169-majority-element) |
+| [0588-design-in-memory-file-system](https://github.com/astridigreene/leetcode-submissions/tree/master/0588-design-in-memory-file-system) |
 ## Counting
 |  |
 | ------- |
@@ -39,5 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0588-design-in-memory-file-system](https://github.com/astridigreene/leetcode-submissions/tree/master/0588-design-in-memory-file-system) |
 | [1600-throne-inheritance](https://github.com/astridigreene/leetcode-submissions/tree/master/1600-throne-inheritance) |
+## String
+|  |
+| ------- |
+| [0588-design-in-memory-file-system](https://github.com/astridigreene/leetcode-submissions/tree/master/0588-design-in-memory-file-system) |
+## Trie
+|  |
+| ------- |
+| [0588-design-in-memory-file-system](https://github.com/astridigreene/leetcode-submissions/tree/master/0588-design-in-memory-file-system) |
 <!---LeetCode Topics End-->
