@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/astridigreene/leetcode-submissions/tree/master/0169-majority-element) |
+| [0874-walking-robot-simulation](https://github.com/astridigreene/leetcode-submissions/tree/master/0874-walking-robot-simulation) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/astridigreene/leetcode-submissions/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/astridigreene/leetcode-submissions/tree/master/0355-design-twitter) |
 | [0588-design-in-memory-file-system](https://github.com/astridigreene/leetcode-submissions/tree/master/0588-design-in-memory-file-system) |
+| [0874-walking-robot-simulation](https://github.com/astridigreene/leetcode-submissions/tree/master/0874-walking-robot-simulation) |
 | [1396-design-underground-system](https://github.com/astridigreene/leetcode-submissions/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/astridigreene/leetcode-submissions/tree/master/1600-throne-inheritance) |
 ## Divide and Conquer
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/astridigreene/leetcode-submissions/tree/master/0146-lru-cache) |
+## Simulation
+|  |
+| ------- |
+| [0874-walking-robot-simulation](https://github.com/astridigreene/leetcode-submissions/tree/master/0874-walking-robot-simulation) |
 <!---LeetCode Topics End-->
