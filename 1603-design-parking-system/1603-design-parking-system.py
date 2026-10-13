@@ -1,8 +1,7 @@
 class ParkingSystem:
 
-    spaces_available = {}
-
     def __init__(self, big: int, medium: int, small: int):
+        self.spaces_available = {}
         self.spaces_available[1] = big
         self.spaces_available[2] = medium
         self.spaces_available[3] = small
