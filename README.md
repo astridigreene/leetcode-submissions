@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/astridigreene/leetcode-submissions/tree/master/0169-majority-element) |
+| [1603-design-parking-system](https://github.com/astridigreene/leetcode-submissions/tree/master/1603-design-parking-system) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-design-underground-system](https://github.com/astridigreene/leetcode-submissions/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/astridigreene/leetcode-submissions/tree/master/1472-design-browser-history) |
 | [1600-throne-inheritance](https://github.com/astridigreene/leetcode-submissions/tree/master/1600-throne-inheritance) |
+| [1603-design-parking-system](https://github.com/astridigreene/leetcode-submissions/tree/master/1603-design-parking-system) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/astridigreene/leetcode-submissions/tree/master/0874-walking-robot-simulation) |
+| [1603-design-parking-system](https://github.com/astridigreene/leetcode-submissions/tree/master/1603-design-parking-system) |
 ## Stack
 |  |
 | ------- |
