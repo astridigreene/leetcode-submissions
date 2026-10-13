@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/astridigreene/leetcode-submissions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/astridigreene/leetcode-submissions/tree/master/0169-majority-element) |
 | [0706-design-hashmap](https://github.com/astridigreene/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0874-walking-robot-simulation](https://github.com/astridigreene/leetcode-submissions/tree/master/0874-walking-robot-simulation) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/astridigreene/leetcode-submissions/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/astridigreene/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/astridigreene/leetcode-submissions/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/astridigreene/leetcode-submissions/tree/master/0355-design-twitter) |
