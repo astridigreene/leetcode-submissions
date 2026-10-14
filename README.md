@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/astridigreene/leetcode-submissions/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/astridigreene/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/astridigreene/leetcode-submissions/tree/master/0169-majority-element) |
 | [0706-design-hashmap](https://github.com/astridigreene/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0874-walking-robot-simulation](https://github.com/astridigreene/leetcode-submissions/tree/master/0874-walking-robot-simulation) |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/astridigreene/leetcode-submissions/tree/master/0706-design-hashmap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/astridigreene/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
