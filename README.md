@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/astridigreene/leetcode-submissions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/astridigreene/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/astridigreene/leetcode-submissions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/astridigreene/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0706-design-hashmap](https://github.com/astridigreene/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0874-walking-robot-simulation](https://github.com/astridigreene/leetcode-submissions/tree/master/0874-walking-robot-simulation) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/astridigreene/leetcode-submissions/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/astridigreene/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [1600-throne-inheritance](https://github.com/astridigreene/leetcode-submissions/tree/master/1600-throne-inheritance) |
 ## Design
 |  |
@@ -116,4 +118,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/astridigreene/leetcode-submissions/tree/master/0020-valid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/astridigreene/leetcode-submissions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/astridigreene/leetcode-submissions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/astridigreene/leetcode-submissions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
