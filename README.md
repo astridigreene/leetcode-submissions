@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/astridigreene/leetcode-submissions/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/astridigreene/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/astridigreene/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/astridigreene/leetcode-submissions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/astridigreene/leetcode-submissions/tree/master/0200-number-of-islands) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/astridigreene/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/astridigreene/leetcode-submissions/tree/master/0169-majority-element) |
 | [0588-design-in-memory-file-system](https://github.com/astridigreene/leetcode-submissions/tree/master/0588-design-in-memory-file-system) |
 ## Counting
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/astridigreene/leetcode-submissions/tree/master/0200-number-of-islands) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/astridigreene/leetcode-submissions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
