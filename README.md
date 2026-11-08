@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/astridigreene/leetcode-submissions/tree/master/0324-wiggle-sort-ii) |
 | [0706-design-hashmap](https://github.com/astridigreene/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0874-walking-robot-simulation](https://github.com/astridigreene/leetcode-submissions/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/astridigreene/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/astridigreene/leetcode-submissions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/astridigreene/leetcode-submissions/tree/master/1472-design-browser-history) |
 ## Hash Table
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/astridigreene/leetcode-submissions/tree/master/0324-wiggle-sort-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/astridigreene/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
