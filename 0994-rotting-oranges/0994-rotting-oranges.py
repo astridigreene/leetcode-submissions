@@ -1,75 +1,45 @@
 class Solution:
     def orangesRotting(self, grid: list[list[int]]) -> int:
-        '''
+        q = deque()
+        seen = set()
 
-        iterate and calculate #rotten, #fresh
-        track total rotten oranges, total fresh oranges
-        # mins = 0
-        while no fresh oranges or if nothing changes
-            iterating through the grid
-                - whether there is a fresh orange adjacent to a rotten orange
-                - bool that shows whether we turned any oranges rotten
-                    - if its false, we return -1
-                - if we see a rotten orange:
-                    - look at the adjacent oranges
-                    - if theyre fresh, ++rotten oranges, --fresh oranges, and make them rotten
-            ++mins
-        return 0
-
-        '''
-
-        rotten = 0
         fresh = 0
-        minutes = 0
-        for row in grid:
-            for col in row:
-                if col == 1:
-                    fresh += 1
-                if col == 2:
-                    rotten += 1
-        # 6 fresh, 1 rotten
-        # 5 fresh, 2 rotten
-        # 4 fresh, 3 rotten
 
-        # [[2,2,1],[2,1,0],[0,1,1]]
-        change_made = True
-        while change_made and fresh > 0:
-            change_made = False
-            seen = set()
-            for i in range(len(grid)):
-                for j in range(len(grid[i])):
-                    if grid[i][j] != 2 or (i,j) in seen:
-                        continue
-                    if (i - 1) >= 0:
-                        if grid[i-1][j] == 1:
-                            rotten += 1
-                            fresh -= 1
-                            change_made = True
-                            grid[i-1][j] = 2
-                            seen.add((i-1, j))
-                    if (i + 1) < len(grid):
-                        if grid[i+1][j] == 1:
-                            rotten += 1
-                            fresh -= 1
-                            change_made = True
-                            grid[i+1][j] = 2
-                            seen.add((i+1, j))
-                    if (j - 1) >= 0:
-                        if grid[i][j-1] == 1:
-                            rotten += 1
-                            fresh -= 1
-                            change_made = True
-                            grid[i][j-1] = 2
-                            seen.add((i, j-1))
-                    if (j + 1) < len(grid[i]):
-                        if grid[i][j+1] == 1:
-                            rotten += 1
-                            fresh -= 1
-                            change_made = True
-                            grid[i][j+1] = 2
-                            seen.add((i, j+1))
-            minutes += 1
+        for i in range(len(grid)):
+            for j in range(len(grid[i])):
+                if grid[i][j] == 2:
+                    q.append((i, j))
+                    seen.add((i, j))
+                elif grid[i][j] == 1:
+                    fresh += 1
+
+        mins = 0
+        while q:
+            for _ in range(len(q)):
+                (row, col) = q.popleft()
+                if row - 1 >= 0 and grid[row - 1][col] == 1 and grid[row - 1][col] not in seen:
+                    q.append((row - 1, col))
+                    seen.add((row - 1, col))
+                    grid[row - 1][col] = 2
+                    fresh -= 1
+                if row + 1 < len(grid) and grid[row + 1][col] == 1 and grid[row + 1][col] not in seen:
+                    q.append((row + 1, col))
+                    seen.add((row + 1, col))
+                    grid[row + 1][col] = 2
+                    fresh -= 1
+                if col - 1 >= 0 and grid[row][col - 1] == 1 and grid[row][col - 1] not in seen:
+                    q.append((row, col - 1))
+                    seen.add((row, col - 1))
+                    grid[row][col - 1] = 2
+                    fresh -= 1
+                if col + 1 < len(grid[row]) and grid[row][col + 1] == 1 and grid[row][col + 1] not in seen:
+                    q.append((row, col + 1))
+                    seen.add((row, col + 1))
+                    grid[row][col + 1] = 2
+                    fresh -= 1
+            mins += 1
         
-        if not change_made:
+
+        if fresh > 0:
             return -1
-        return minutes
+        return max(0, mins - 1)
