@@ -30,11 +30,9 @@ class Solution:
 
 
         def dfs(lower, upper, node):
-            # print(node.val)
             if not node:
                 return True
             if node.val <= lower or node.val >= upper:
-                print(f"{node.val}, {lower}, {upper}")
                 return False
             return (dfs(lower, node.val, node.left) and dfs(node.val, upper, node.right))
         
