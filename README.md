@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/astridigreene/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0874-walking-robot-simulation](https://github.com/astridigreene/leetcode-submissions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/astridigreene/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/astridigreene/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/astridigreene/leetcode-submissions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/astridigreene/leetcode-submissions/tree/master/1472-design-browser-history) |
 ## Hash Table
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/astridigreene/leetcode-submissions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/astridigreene/leetcode-submissions/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/astridigreene/leetcode-submissions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/astridigreene/leetcode-submissions/tree/master/0994-rotting-oranges) |
 ## Quicksort
 |  |
 | ------- |
