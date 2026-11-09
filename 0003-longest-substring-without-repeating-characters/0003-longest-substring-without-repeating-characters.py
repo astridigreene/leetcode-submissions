@@ -29,12 +29,10 @@ class Solution:
         seen = set()
 
         while left < len(s) and right < len(s):
-            if s[right] in seen:
-                seen = set()
+            while s[right] in seen:
+                seen.remove(s[left])
                 left += 1
-                right = left
-            else:
-                longest = max(longest, right-left+1)
-                seen.add(s[right])
-                right += 1
+            longest = max(longest, right-left+1)
+            seen.add(s[right])
+            right += 1
         return longest
