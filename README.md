@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/astridigreene/leetcode-submissions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/astridigreene/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/astridigreene/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/astridigreene/leetcode-submissions/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/astridigreene/leetcode-submissions/tree/master/0355-design-twitter) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/astridigreene/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/astridigreene/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0588-design-in-memory-file-system](https://github.com/astridigreene/leetcode-submissions/tree/master/0588-design-in-memory-file-system) |
 | [1396-design-underground-system](https://github.com/astridigreene/leetcode-submissions/tree/master/1396-design-underground-system) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/astridigreene/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/astridigreene/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
