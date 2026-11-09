@@ -60,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/astridigreene/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [1600-throne-inheritance](https://github.com/astridigreene/leetcode-submissions/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/astridigreene/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/astridigreene/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [1600-throne-inheritance](https://github.com/astridigreene/leetcode-submissions/tree/master/1600-throne-inheritance) |
 ## Design
@@ -173,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/astridigreene/leetcode-submissions/tree/master/0344-reverse-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/astridigreene/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/astridigreene/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
