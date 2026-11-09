@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/astridigreene/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/astridigreene/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/astridigreene/leetcode-submissions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/astridigreene/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/astridigreene/leetcode-submissions/tree/master/0355-design-twitter) |
 | [0588-design-in-memory-file-system](https://github.com/astridigreene/leetcode-submissions/tree/master/0588-design-in-memory-file-system) |
 | [0706-design-hashmap](https://github.com/astridigreene/leetcode-submissions/tree/master/0706-design-hashmap) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/astridigreene/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/astridigreene/leetcode-submissions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/astridigreene/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/astridigreene/leetcode-submissions/tree/master/0324-wiggle-sort-ii) |
 | [0588-design-in-memory-file-system](https://github.com/astridigreene/leetcode-submissions/tree/master/0588-design-in-memory-file-system) |
 ## Counting
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/astridigreene/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/astridigreene/leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/astridigreene/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0588-design-in-memory-file-system](https://github.com/astridigreene/leetcode-submissions/tree/master/0588-design-in-memory-file-system) |
 | [1396-design-underground-system](https://github.com/astridigreene/leetcode-submissions/tree/master/1396-design-underground-system) |
 ## Trie
